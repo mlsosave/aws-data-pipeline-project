@@ -37,4 +37,8 @@ Add Airflow orchestration
 
 Add real-time processing
 
+. Integrate AWS S3
+
+. Add Airflow DAG
+
 
