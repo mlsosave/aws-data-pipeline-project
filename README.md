@@ -1,5 +1,4 @@
 # aws-data-pipeline-project
-Data Engineer Project 
 AWS Data Pipeline Project
 📌 Overview
 This project demonstrates an end-to-end data pipeline built on AWS.
@@ -13,6 +12,9 @@ SQL
 Data ingestion
 Data transformation
 Data loading
+🧠 Key Learnings
+Built a basic ETL pipeline in Python
+Understood data workflows
 📊 Future Improvements
 Add Airflow orchestration
 Add real-time processing
