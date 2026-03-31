@@ -33,12 +33,10 @@ Understood data workflows
 
 📊 Future Improvements
 
-Add Airflow orchestration
+Add Airflow orchestration DAG
 
 Add real-time processing
 
-. Integrate AWS S3
 
-. Add Airflow DAG
 
 
